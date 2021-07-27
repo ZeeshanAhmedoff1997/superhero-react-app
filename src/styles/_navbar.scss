@@ -1,0 +1,27 @@
+.navbar-bg {
+  background: linear-gradient(
+    90deg,
+    rgba(83, 212, 233, 1) 20%,
+    rgba(57, 131, 252, 1) 92%
+  );
+  box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.3);
+  transition: 0.3s all ease-in-out;
+}
+.nav-logo {
+  font-family: 'Shojumaru', cursive !important;
+  color: white !important;
+}
+.navbar-btn {
+  padding: 7px 30px;
+  border-radius: 20px;
+  background-color: #fff;
+  font-family: "Axiforma-Medium", sans-serif;
+  transition: all 0.3s;
+  margin-left: 24px;
+  &:hover{
+    cursor: pointer;
+    background: transparent;
+    border: 2px solid white;
+    color: white;
+  }
+}

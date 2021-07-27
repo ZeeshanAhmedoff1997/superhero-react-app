@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW X8 -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="127.5mm" height="118.52mm" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 722 671"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+    .str1 {stroke:#585F7B;stroke-width:2.83127}
+    .str0 {stroke:#585F7B;stroke-width:2.83127;stroke-linecap:round;stroke-linejoin:round}
+    .fil2 {fill:none}
+    .fil3 {fill:#3599F9}
+    .fil0 {fill:#FAFAFA}
+    .fil4 {fill:white}
+    .fil1 {fill:white}
+   ]]>
+  </style>
+ </defs>
+ <g id="Слой_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <g id="_2430625234416">
+   <path class="fil0" d="M440 667c159,22 256,-40 270,-211 26,-167 30,-321 -196,-386 -158,-29 -315,-126 -411,-25 -124,151 -129,276 -53,382 64,120 119,256 264,243 37,-9 75,-15 126,-3z"/>
+   <g>
+    <polygon class="fil1 str0" points="163,141 52,385 178,333 369,386 563,331 688,384 582,145 487,112 371,141 256,110 "/>
+    <line class="fil2 str0" x1="256" y1="110" x2="178" y2= "333" />
+    <line class="fil2 str0" x1="371" y1="141" x2="369" y2= "386" />
+    <line class="fil2 str0" x1="487" y1="112" x2="563" y2= "331" />
+    <line class="fil2 str0" x1="80" y1="322" x2="188" y2= "303" />
+    <line class="fil2 str0" x1="217" y1="123" x2="139" y2= "349" />
+    <line class="fil2 str0" x1="95" y1="367" x2="189" y2= "133" />
+    <line class="fil2 str0" x1="127" y1="220" x2="148" y2= "235" />
+    <polyline class="fil2 str0" points="195,155 246,140 370,209 437,187 "/>
+    <ellipse class="fil2 str0" cx="460" cy="184" rx="22" ry="25"/>
+    <line class="fil2 str0" x1="454" y1="120" x2="458" y2= "159" />
+    <line class="fil2 str0" x1="464" y1="209" x2="482" y2= "354" />
+    <polyline class="fil2 str0" points="450,206 369,312 420,371 "/>
+    <line class="fil2 str0" x1="290" y1="364" x2="338" y2= "132" />
+    <line class="fil2 str0" x1="297" y1="121" x2="244" y2= "351" />
+    <line class="fil2 str0" x1="251" y1="323" x2="188" y2= "303" />
+    <polyline class="fil2 str0" points="481,184 517,199 565,199 "/>
+    <line class="fil2 str0" x1="589" y1="342" x2="522" y2= "124" />
+    <line class="fil2 str0" x1="649" y1="296" x2="570" y2= "278" />
+    <g>
+     <path class="fil3 str1" d="M152 112c-24,0 -43,19 -43,43 0,7 1,13 3,18 11,24 32,49 38,56 1,1 1,1 2,1 1,0 1,0 2,-1 6,-7 27,-32 38,-56 2,-5 3,-11 3,-18 0,-24 -19,-43 -43,-43z"/>
+     <path class="fil4 str1" d="M152 178c-12,0 -23,-10 -23,-23 0,-12 11,-22 23,-22 12,0 22,10 22,22 0,13 -10,23 -22,23z"/>
+    </g>
+    <g>
+     <path class="fil3 str1" d="M595 123c-30,0 -55,25 -55,56 0,8 1,15 4,22 14,31 41,63 49,72 1,1 2,1 2,1 1,0 2,0 3,-1 8,-9 34,-41 48,-72 4,-7 5,-14 5,-22 0,-31 -25,-56 -56,-56z"/>
+     <path class="fil4 str1" d="M595 208c-16,0 -29,-13 -29,-29 0,-16 13,-29 29,-29 16,0 29,13 29,29 0,16 -13,29 -29,29z"/>
+    </g>
+    <polyline class="fil2 str0" points="150,237 215,231 368,312 541,263 596,281 "/>
+   </g>
+   <g>
+    <path class="fil4 str0" d="M365 247c71,0 128,57 128,127 0,35 -14,66 -36,89l93 111c6,6 5,16 -1,21l0 0c-6,5 -16,4 -21,-2l-94 -112c-19,13 -43,20 -69,20 -70,0 -127,-57 -127,-127 0,-70 57,-127 127,-127z"/>
+    <path class="fil4 str0" d="M365 275c55,0 99,45 99,99 0,55 -44,99 -99,99 -54,0 -98,-44 -98,-99 0,-54 44,-99 98,-99z"/>
+    <path class="fil3 str0" d="M327 338l63 0c11,0 20,9 20,20l0 35c0,11 -9,20 -20,20l-63 0 0 -75z"/>
+    <path class="fil2 str0" d="M373 380l14 14m-23 -37c7,0 13,6 13,13 0,7 -6,13 -13,13 -8,0 -14,-6 -14,-13 0,-7 6,-13 14,-13z"/>
+    <line class="fil2 str0" x1="327" y1="338" x2="280" y2= "338" />
+    <line class="fil2 str0" x1="327" y1="413" x2="283" y2= "413" />
+    <line class="fil2 str0" x1="268" y1="390" x2="303" y2= "390" />
+    <line class="fil2 str0" x1="439" y1="316" x2="439" y2= "428" />
+   </g>
+  </g>
+ </g>
+</svg>

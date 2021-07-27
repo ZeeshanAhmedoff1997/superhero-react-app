@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW X8 -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="130.637mm" height="131.6mm" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 761 766"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+    .str0 {stroke:#585F7B;stroke-width:2.91216;stroke-linecap:round;stroke-linejoin:round}
+    .str1 {stroke:white;stroke-width:2.91216;stroke-linecap:round;stroke-linejoin:round}
+    .fil6 {fill:none}
+    .fil2 {fill:#3599F9}
+    .fil7 {fill:#585F7B}
+    .fil3 {fill:#EEEEEE}
+    .fil5 {fill:#F7F9F8}
+    .fil4 {fill:#F7F9F8}
+    .fil0 {fill:#F8F8F8}
+    .fil1 {fill:white}
+   ]]>
+  </style>
+ </defs>
+ <g id="Слой_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <g id="_2430624796560">
+   <path class="fil0" d="M115 602c-172,-141 -120,-258 -44,-374 101,-153 379,-292 440,-197 19,31 7,51 8,82 1,43 28,62 78,60 43,-3 76,-23 118,6 78,54 53,229 -49,312 -170,187 -336,350 -461,240 -53,-34 -34,-98 -90,-129z"/>
+   <g>
+    <rect class="fil1 str0" x="96" y="191" width="538" height="427" rx="17" ry="17"/>
+    <path class="fil2 str0" d="M113 191l504 0c9,0 17,8 17,17l0 73 -538 0 0 -73c0,-9 7,-17 17,-17zm134 26c9,0 16,7 16,16 0,8 -7,15 -16,15 -8,0 -15,-7 -15,-15 0,-9 7,-16 15,-16zm235 0c9,0 16,7 16,16 0,8 -7,15 -16,15 -8,0 -15,-7 -15,-15 0,-9 7,-16 15,-16z"/>
+    <circle class="fil3" cx="364" cy="576" r="23"/>
+    <rect class="fil1 str0" x="477" y="259" width="203" height="366" rx="25" ry="25"/>
+    <path class="fil4 str0" d="M680 578l0 21c0,14 -12,25 -25,25l-132 0 0 -46 157 0z"/>
+    <path class="fil5 str0" d="M502 259l153 0c13,0 25,11 25,24l0 19 -203 0 0 -19c0,-13 11,-24 25,-24z"/>
+    <circle class="fil1 str0" cx="476" cy="561" r="92"/>
+    <path class="fil6 str0" d="M478 644l0 -13m-84 -68l13 0m67 -84l0 13m85 67l-13 0"/>
+    <line class="fil6 str0" x1="479" y1="551" x2="496" y2= "506" />
+    <line class="fil6 str0" x1="484" y1="568" x2="529" y2= "598" />
+    <circle class="fil2" cx="476" cy="561" r="10"/>
+    <path class="fil1 str0" d="M550 276c3,0 5,2 5,5 0,3 -2,5 -5,5 -3,0 -5,-2 -5,-5 0,-3 2,-5 5,-5zm21 0l36 0c2,0 4,2 4,5l0 0c0,2 -2,4 -4,4l-36 0c-2,0 -4,-2 -4,-4l0 0c0,-3 2,-5 4,-5z"/>
+    <rect class="fil1 str0" x="560" y="592" width="34.0041" height="17.2866" rx="9" ry="9"/>
+    <circle class="fil3" cx="614" cy="520" r="27"/>
+    <circle class="fil2" cx="614" cy="442" r="27"/>
+    <polyline class="fil6 str1" points="598,440 610,452 630,432 "/>
+    <rect class="fil3" x="498" y="434" width="55.7084" height="16.8952" rx="2" ry="2"/>
+    <circle class="fil2" cx="614" cy="366" r="27"/>
+    <polyline class="fil6 str1" points="598,363 610,375 630,356 "/>
+    <rect class="fil3" x="498" y="357" width="55.7084" height="16.8952" rx="2" ry="2"/>
+    <circle class="fil3" cx="433" cy="324" r="23"/>
+    <circle class="fil3" cx="364" cy="324" r="23"/>
+    <circle class="fil3" cx="295" cy="324" r="23"/>
+    <circle class="fil3" cx="433" cy="450" r="23"/>
+    <circle class="fil3" cx="364" cy="450" r="23"/>
+    <circle class="fil3" cx="295" cy="450" r="23"/>
+    <circle class="fil3" cx="433" cy="388" r="23"/>
+    <circle class="fil3" cx="295" cy="388" r="23"/>
+    <circle class="fil3" cx="228" cy="450" r="23"/>
+    <circle class="fil3" cx="159" cy="450" r="23"/>
+    <circle class="fil3" cx="228" cy="388" r="23"/>
+    <circle class="fil3" cx="159" cy="388" r="23"/>
+    <circle class="fil3" cx="364" cy="512" r="23"/>
+    <circle class="fil3" cx="295" cy="512" r="23"/>
+    <circle class="fil3" cx="159" cy="512" r="23"/>
+    <circle class="fil3" cx="295" cy="576" r="23"/>
+    <circle class="fil3" cx="228" cy="576" r="23"/>
+    <circle class="fil3" cx="159" cy="576" r="23"/>
+    <circle class="fil2" cx="227" cy="512" r="34"/>
+    <polyline class="fil6 str1" points="206,510 222,525 247,500 "/>
+    <circle class="fil2" cx="364" cy="388" r="34"/>
+    <polyline class="fil6 str1" points="344,385 360,401 385,376 "/>
+    <circle class="fil7" cx="364" cy="126" r="8"/>
+    <polyline class="fil6 str0" points="245,223 364,126 481,223 "/>
+    <path class="fil6 str0" d="M96 350c-6,82 -13,156 -20,215 -2,22 0,29 8,33"/>
+   </g>
+  </g>
+ </g>
+</svg>
