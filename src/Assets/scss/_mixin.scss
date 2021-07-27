@@ -1,0 +1,20 @@
+@mixin backgroundImage {
+  background-image: url("../Images/commonImages/cardsAndParkedSectionBg.png");
+  background-repeat: no-repeat;
+  background-position: bottom;
+  background-size: 100% 90%;
+  text-align: center;
+  text-align: "-moz-center";
+  text-align: "-webkit-center";
+}
+@mixin main-button($color) {
+  border: none;
+  padding: 5px 20px 5px;
+  text-align: center;
+  border-radius: 20px;
+  color: white;
+  background-color: $color;
+  &:focus {
+    outline: none;
+  }
+}

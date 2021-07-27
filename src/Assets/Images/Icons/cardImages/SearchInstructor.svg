@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW X8 -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="131.71mm" height="113.85mm" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 773 668"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+    .str1 {stroke:#585F7B;stroke-width:2.93466;stroke-linecap:round;stroke-linejoin:round}
+    .str2 {stroke:#585F7B;stroke-width:2.93466;stroke-linecap:round;stroke-linejoin:round}
+    .str0 {stroke:#EFEFEF;stroke-width:2.93466;stroke-linecap:round;stroke-linejoin:round}
+    .fil5 {fill:none}
+    .fil3 {fill:#3599F9}
+    .fil4 {fill:#9A9BAD}
+    .fil2 {fill:#EFEFEF}
+    .fil0 {fill:#FAFAFA}
+    .fil1 {fill:white}
+   ]]>
+  </style>
+ </defs>
+ <g id="Слой_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <g id="_2430624796112">
+   <path class="fil0" d="M220 49c-165,22 -245,109 -213,284 18,175 55,330 299,334 166,-13 349,42 418,-86 84,-184 55,-310 -49,-396 -97,-103 -188,-225 -330,-173 -34,19 -70,36 -125,37z"/>
+   <g>
+    <rect class="fil1 str0" x="38" y="144" width="271" height="403" rx="10" ry="10"/>
+    <g>
+     <polygon class="fil2" points="86,473 93,486 106,488 97,498 99,512 86,505 74,512 76,498 66,488 80,486 "/>
+     <polygon class="fil2" points="130,473 137,486 150,488 141,498 143,512 130,505 118,512 120,498 110,488 124,486 "/>
+     <polygon class="fil2" points="174,473 180,486 194,488 184,498 186,512 174,505 161,512 163,498 154,488 167,486 "/>
+     <polygon class="fil2" points="217,473 223,486 237,488 227,498 229,512 217,505 204,512 206,498 197,488 210,486 "/>
+     <polygon class="fil2" points="261,473 267,486 281,488 271,498 273,512 261,505 248,512 251,498 241,488 255,486 "/>
+    </g>
+    <rect class="fil2" x="101" y="445" width="145.114" height="3.47769" rx="2" ry="2"/>
+    <rect class="fil2" x="66" y="398" width="214.928" height="31.2962" rx="2" ry="9"/>
+    <rect class="fil1" x="91" y="411" width="164.64" height="6.15268" rx="2" ry="3"/>
+    <circle class="fil2" cx="174" cy="273" r="97"/>
+   </g>
+   <g>
+    <rect class="fil1 str0" x="467" y="144" width="271" height="403" rx="10" ry="10"/>
+    <g>
+     <polygon class="fil2" points="515,473 522,486 535,488 526,498 528,512 515,505 503,512 505,498 495,488 509,486 "/>
+     <polygon class="fil2" points="559,473 566,486 579,488 570,498 572,512 559,505 547,512 549,498 539,488 553,486 "/>
+     <polygon class="fil2" points="603,473 609,486 623,488 613,498 615,512 603,505 590,512 592,498 583,488 596,486 "/>
+     <polygon class="fil2" points="646,473 652,486 666,488 656,498 658,512 646,505 633,512 635,498 626,488 639,486 "/>
+     <polygon class="fil2" points="690,473 696,486 710,488 700,498 702,512 690,505 677,512 680,498 670,488 683,486 "/>
+    </g>
+    <rect class="fil2" x="530" y="445" width="145.114" height="3.47769" rx="2" ry="2"/>
+    <rect class="fil2" x="495" y="398" width="214.928" height="31.2962" rx="2" ry="9"/>
+    <rect class="fil1" x="520" y="411" width="164.64" height="6.15268" rx="2" ry="3"/>
+    <circle class="fil2" cx="603" cy="273" r="97"/>
+   </g>
+   <rect class="fil1 str1" x="224" y="102" width="325" height="484" rx="12" ry="12"/>
+   <g>
+    <polygon class="fil3" points="281,498 289,512 306,515 294,527 296,544 281,536 266,544 269,527 257,515 274,512 "/>
+    <polygon class="fil3" points="334,498 342,512 359,515 347,527 349,544 334,536 319,544 322,527 310,515 327,512 "/>
+    <polygon class="fil3" points="387,498 394,512 411,515 399,527 402,544 387,536 372,544 374,527 362,515 379,512 "/>
+    <polygon class="fil3" points="438,498 446,512 463,515 451,527 453,544 438,536 423,544 426,527 414,515 431,512 "/>
+    <polygon class="fil3" points="491,498 499,512 516,515 504,527 506,544 491,536 476,544 479,527 467,515 484,512 "/>
+   </g>
+   <rect class="fil4" x="299" y="463" width="174.253" height="4.17602" rx="2" ry="2"/>
+   <rect class="fil3" x="257" y="407" width="258.087" height="37.5806" rx="2" ry="11"/>
+   <rect class="fil1" x="288" y="422" width="197.701" height="7.38816" rx="2" ry="4"/>
+   <circle class="fil5 str1" cx="386" cy="257" r="117"/>
+   <path class="fil3" d="M418 188c-5,12 -30,20 -15,34 3,-1 6,-3 7,-6 1,3 1,7 -1,11 3,-1 5,-5 7,-10 2,5 1,10 -1,15 12,-14 13,-28 3,-44z"/>
+   <path class="fil3" d="M334 218c6,-43 50,-76 84,-37 -17,29 -39,27 -57,42 -1,-8 1,-15 3,-22 -7,12 -11,24 -9,37 -7,-6 -10,-14 -9,-24 -7,8 -9,17 -8,26 -1,-3 -2,-6 -3,-9 -1,-2 -1,-8 -1,-13z"/>
+   <path class="fil5 str2" d="M376 268c8,9 15,10 23,1m-43 24c-4,-16 -6,-33 -6,-50 0,-13 1,-26 6,-39 13,-30 45,-38 58,2 4,12 6,25 6,38 0,16 -1,32 -6,47m-36 77c0,-7 1,-14 5,-22 -2,-1 -4,-4 -5,-5 1,-2 4,-4 6,-6 2,2 4,5 6,7 -3,1 -5,3 -7,4 4,7 7,14 8,22m-41 -53l26 18 9 -11 8 11 26 -17m-95 31c1,-4 1,-8 1,-11 -1,-3 -3,-6 -5,-9 13,-7 24,-17 35,-28 8,8 18,14 30,18 11,-4 22,-11 30,-19 9,11 21,18 34,23 -10,8 -13,18 -6,31m-2 -23c7,1 12,5 17,10m-134 -6l-6 7"/>
+  </g>
+ </g>
+</svg>
