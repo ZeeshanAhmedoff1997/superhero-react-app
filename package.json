@@ -32,11 +32,12 @@
     "redux-persist": "^6.0.0",
     "redux-react-session": "^2.6.1",
     "sass": "^1.35.2",
+    "serve": "^12.0.0",
     "styled-components": "^5.3.0",
     "tsparticles": "^1.31.1",
     "web-vitals": "^1.1.2"
   },
-  "scripts": {  
+  "scripts": {
     "dev": "react-scripts start",
     "start": "serve -s build",
     "build": "react-scripts build",
