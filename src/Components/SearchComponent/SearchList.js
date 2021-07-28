@@ -1,13 +1,15 @@
 import React, { useState, useEffect } from 'react'
-import { useSelector } from "react-redux";
+import { useNavigate } from "react-router-dom";
 import Card from '../common/Card'
-import { useDispatch } from "react-redux";
+import { useDispatch, useSelector } from "react-redux";
 import { addComparedItem, removeComparedItem } from '../../Redux//actions/searchActions'
 import { toast } from 'react-toastify';
 import { Modal, Button } from 'react-bootstrap'
+import CompareImage from '../../Assets/Images/commonImages/vs_image.png'
 
 const SearchList = () =>  {
   const dispatch = useDispatch();
+  const navigate = useNavigate();
   const { heroes, comparedHeroes }  = useSelector((state) => state.searchData);
   const [show, setShow] = useState(false);
   const [isAdded, setIsAdded] = useState(false)
@@ -53,6 +55,10 @@ const SearchList = () =>  {
     return false
   }
 
+  const visitCompare = () => {
+    navigate('/compare')
+  }
+
   return (
     <>
       {heroes.map((hero, key) => 
@@ -73,15 +79,33 @@ const SearchList = () =>  {
       )}
        <Modal show={show} onHide={handleClose}>
         <Modal.Header closeButton>
-          <Modal.Title>Modal heading</Modal.Title>
+          <Modal.Title>Compare <span>{comparedHeroes[0]?.name}</span> with <span>{comparedHeroes[1]?.name}</span></Modal.Title>
         </Modal.Header>
-        <Modal.Body>Woohoo, you're reading this text in a modal!</Modal.Body>
-        <Modal.Footer>
-          <Button variant="secondary" onClick={handleClose}>
+        <Modal.Body>
+          <div className="row">
+            {comparedHeroes.map((hero, key)=>
+              <>
+                <div className="col-md-5 col-5 col-sm-5 cart-img-div">
+                  <div className="cart-img">
+                    <img src={hero.image.url} width={170} height={170} alt={'hero'} />
+                    <p className="cart-hero-name">{hero.name}</p>
+                  </div>
+                </div>
+                {key === 0 &&
+                  <div className="col-md-2 col-2 col-sm-2 cart-img-div">
+                    <img src={CompareImage} width={70} height={70} alt={'hero'} />
+                </div>
+                }
+              </>
+            )}
+          </div>
+        </Modal.Body>
+        <Modal.Footer className="cart-footer">
+          <Button variant="secondary" onClick={handleClose} className="action-btn">
             Close
           </Button>
-          <Button variant="primary" onClick={handleClose}>
-            Save Changes
+          <Button variant="primary" onClick={visitCompare} className="action-btn">
+            View Full Comparison
           </Button>
         </Modal.Footer>
       </Modal>

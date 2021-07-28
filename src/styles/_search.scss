@@ -428,6 +428,45 @@
   }
 }
 
+.modal-header{
+  font-family: inherit;
+  .modal-title{
+    font-size: 1rem;
+  }
+  span{
+    font-size: 1.3rem;
+    color: #3bb3bd;
+    font-weight: 600;
+  }
+}
+
+.cart-heading{
+  font-weight: 800;
+}
+
+.cart-img-div{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.cart-img{
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+.cart-hero-name{
+  text-align: center;
+  margin-bottom: 0px;
+  padding: 10px;
+  font-family: 'Shojumaru';
+}
+
+.cart-footer{
+  display: flex;
+  justify-content: space-between;
+  margin: 0px 10px;
+}
+
 @media (max-width: 450px) {
   .helping-note-detail {
     padding: 7px 7px 7px 7px !important;

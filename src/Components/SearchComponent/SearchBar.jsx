@@ -5,6 +5,7 @@ import Loader from "react-loader-spinner";
 import { addSearchedItem } from '../../Redux/actions/searchActions'
 import { useDispatch } from "react-redux";
 import { toast } from "react-toastify";
+import { addToHistory } from '../../utils/maintainHistory'
 
 const SearchBar = _ => {
   const [heroName, setHeroName] = useState("");
@@ -16,10 +17,13 @@ const SearchBar = _ => {
     setLoading(true)
     try {
       const { data } =  await getSuperHeroId(heroName)
+      let d = new Date()
       if(data.response === "error"){
         toast.error(data.error)
+        addToHistory(heroName, 0, d.getTime())
         return
       }
+      addToHistory(heroName, data.results.length, d.getTime())
       dispatch(addSearchedItem(data.results))
     } catch (ex) {
       toast.error('Unable to Search Hero')

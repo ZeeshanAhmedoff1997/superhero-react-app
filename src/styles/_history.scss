@@ -1,0 +1,14 @@
+.history{
+  .custom-del-icon{
+    color: #37b9f1;
+    &:hover{
+      color: rgb(219, 45, 45);
+      cursor: pointer;
+    }
+  }
+  .clear{
+    display: flex;
+    justify-content: center;
+  }
+  
+}
