@@ -6,10 +6,11 @@ import {
   NavMenu,
   NavBtn
 } from './NavbarElements';
+import { useNavigate } from "react-router-dom";
 
 const Navbar = () => {
   const [bg, setBg] = useState(false)
-
+  const navigate = useNavigate();
   const listenScrollEvent = () => {
     window.scrollY > 30
     ? setBg(true)
@@ -26,19 +27,8 @@ const Navbar = () => {
           <h2 className="nav-logo">Super Hero</h2>
         </NavLink>
         <Bars />
-        <NavMenu>
-          <NavLink to='/about' activeStyle>
-            About
-          </NavLink>
-          <NavLink to='/services' activeStyle>
-            Services
-          </NavLink>
-          <NavLink to='/contact-us' activeStyle>
-            Contact Us
-          </NavLink>
-        </NavMenu>
         <NavBtn>
-          <div className="navbar-btn">History</div>
+          <div className="navbar-btn" onClick={() => navigate('history')}>History</div>
         </NavBtn>
       </Nav>
     </>
