@@ -1,0 +1,47 @@
+.loading{
+  display: flex;
+  justify-content: center;
+  font-family: "Poppins", sans-serif;
+  height: 80vh;
+  align-items: center;
+  h1:before {
+    animation: text-loading 10s linear infinite;
+    border-bottom: 16px solid #03a9f4;
+    color: #03a9f4;
+    content: attr(data-text);
+    left: 0;
+    overflow: hidden;
+    position: absolute;
+    top: 0;
+    width: 0;
+    -webkit-animation: text-loading 10s linear infinite;
+}
+  
+  h1 {
+    border-bottom: 16px solid #222222;
+    color: #222222;
+    font-size: 8rem;
+    letter-spacing: 0.05em;
+    line-height: 1.2em;
+    position: relative;
+    text-transform: uppercase;
+  }
+  
+  @media screen and (max-width: 768px) {
+    h1 {
+      font-size: 5rem;
+    }
+  }
+  
+  @media screen and (max-width: 500px) {
+    h1 {
+      font-size: 3rem;
+    }
+  }
+  
+  @keyframes text-loading {
+    to {
+      width: 100%;
+    }
+  }
+}

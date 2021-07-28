@@ -9,7 +9,6 @@ export const routes = () => [
   { path: "/compare", element: <ComparePage /> },
   { path: "/history", element: <HistoryPage /> },
   { path: "*", element: <NotFoundPage /> },
-
 ];
   
 export default routes;
